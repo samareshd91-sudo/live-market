@@ -1,5 +1,0 @@
-streamlit>=1.40
-pandas>=2.2
-numpy>=1.26
-yfinance>=0.2.66
-nselib>=2.5.1
